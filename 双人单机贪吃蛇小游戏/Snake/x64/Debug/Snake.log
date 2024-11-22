@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+C:\Users\Lliuqf666\OneDrive\桌面\刘权锋\贪吃蛇项目\双人单机贪吃蛇小游戏\Snake.cpp(359,1): warning C4715: “checkCollision”: 不是所有的控件路径都返回值
+C:\Users\Lliuqf666\OneDrive\桌面\刘权锋\贪吃蛇项目\双人单机贪吃蛇小游戏\Snake.cpp(747,1): warning C4715: “winView”: 不是所有的控件路径都返回值
+  Snake.vcxproj -> C:\Users\Lliuqf666\OneDrive\桌面\刘权锋\贪吃蛇项目\双人单机贪吃蛇小游戏\x64\Debug\Snake.exe
